@@ -3,7 +3,7 @@ from discord import app_commands
 import requests
 import json
 
-TOKEN = "MTM0ODk2MzEwNzc3MDIwODI3Nw.G0e-Yf.aj6uDxv3nSp_l9JS5jiDGgenn2wY_rhPQvoND4"  # Replace with your actual bot token
+TOKEN = ""  # Replace with your actual bot token
 ANILIST_API_URL = "https://graphql.anilist.co"
 JIKAN_API_URL = "https://api.jikan.moe/v4/characters"
 WAIFU_IM_API_URL = "https://api.waifu.im/sfw/waifu/"
